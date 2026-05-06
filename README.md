@@ -11,7 +11,6 @@
 <p align="center">
   📍 Bengaluru, Karnataka &nbsp;|&nbsp;
   📧 <a href="mailto:shashimy12345@gmail.com">shashimy12345@gmail.com</a> &nbsp;|&nbsp;
-  🔗 <a href="https://linkedin.com/in/shashank-yarazari-22ab56313">LinkedIn</a> &nbsp;|&nbsp;
   🐙 <a href="https://github.com/Shashankmy">GitHub</a>
 </p>
 
