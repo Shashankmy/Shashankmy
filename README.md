@@ -67,7 +67,7 @@ B.E. ECE 2025 graduate who builds full-stack web and Android applications. I wor
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=flat-square&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Codex-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Codex](https://img.shields.io/badge/GitHub_Codex-181717?style=flat-square&logo=github&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
@@ -131,12 +131,12 @@ B.E. ECE 2025 graduate who builds full-stack web and Android applications. I wor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashankmy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankmy&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashankmy&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankmy&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankmy&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Shashankmy&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
