@@ -131,11 +131,11 @@ B.E. ECE 2025 graduate who builds full-stack web and Android applications. I wor
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Contributions](https://img.shields.io/badge/Contributions-45-2ea043?style=flat-square)
-  ![Repositories](https://img.shields.io/badge/Repositories-20-388bfd?style=flat-square)
-  ![Internships](https://img.shields.io/badge/Internships-4-d29922?style=flat-square)
-  ![Projects](https://img.shields.io/badge/Projects-4-bc8cff?style=flat-square)
-  ![Languages](https://img.shields.io/badge/Languages-7-f0883e?style=flat-square)
+  <img src="https://img.shields.io/badge/Contributions-45-2ea043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repositories-20-388bfd?style=flat-square" />
+  <img src="https://img.shields.io/badge/Internships-4-d29922?style=flat-square" />
+  <img src="https://img.shields.io/badge/Projects-4-bc8cff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Languages-7-f0883e?style=flat-square" />
 </p>
 
 <p align="center">
